@@ -1,4 +1,6 @@
 # mongoperf
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7a94694f-18aa-4f72-8999-30d2f41afae6.svg?orgId=679096383598)](https://app.soluble.cloud/repos/details/github.com/desteves/mongoperf?orgId=679096383598)  
 Added the option to use existing mongoperf__testfile__tmp file from a previous run.
 
 Forked from original:
